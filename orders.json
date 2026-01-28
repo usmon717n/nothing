@@ -1,0 +1,75 @@
+[
+  {
+    "timestamp": "2026-01-28 19:12:44",
+    "user_id": 6723737087,
+    "name": "𝐔𝐦𝐚𝐫𝐚𝐥𝐢𝐲𝐞𝐰𝟕 ",
+    "username": "umaraliyew7",
+    "phone": "998501004421",
+    "role": "Klient",
+    "trip_info": "namangandan samarqandga 3 da",
+    "passenger_count": "2 kishi",
+    "price_offer": "200 000",
+    "status": "Kutilmoqda"
+  },
+  {
+    "timestamp": "2026-01-28 19:13:45",
+    "user_id": 7575656261,
+    "name": "7 ",
+    "username": "umaraliyew_7",
+    "phone": "998934970822",
+    "role": "Klient",
+    "trip_info": "namangandan samarqandga soat 3 da",
+    "passenger_count": "4 kishi",
+    "price_offer": "200000",
+    "status": "Kutilmoqda"
+  },
+  {
+    "timestamp": "2026-01-28 19:18:05",
+    "user_id": 7575656261,
+    "name": "7 ",
+    "username": "umaraliyew_7",
+    "phone": "998934970822",
+    "role": "Klient",
+    "trip_info": "namangandan qarshiga soat 4 da",
+    "passenger_count": "3 kishi",
+    "price_offer": "200000",
+    "status": "Kutilmoqda"
+  },
+  {
+    "timestamp": "2026-01-28 19:21:16",
+    "user_id": 8041604608,
+    "name": "U7 ",
+    "username": null,
+    "phone": "998200038977",
+    "role": "Klient",
+    "trip_info": "namangandan toshkentga 3 da",
+    "passenger_count": "Kiritilmagan",
+    "price_offer": "3 kishi",
+    "status": "Kutilmoqda"
+  },
+  {
+    "timestamp": "2026-01-28 19:26:59",
+    "user_id": 8041604608,
+    "name": "U7 ",
+    "username": "Yo'q",
+    "phone": "998200038977",
+    "role": "Klient",
+    "trip_info": "samarqanga",
+    "passenger_count": "Kiritilmagan",
+    "price_offer": "4 kishi",
+    "status": "Kutilmoqda"
+  },
+  {
+    "timestamp": "2026-01-28 19:33:26",
+    "order_id": 6,
+    "user_id": 8041604608,
+    "name": "U7 ",
+    "username": "Yo'q",
+    "phone": "998200038977",
+    "role": "Klient",
+    "route": "Namangandan qarshiga",
+    "passengers": "2 kishi",
+    "price": "200000",
+    "status": "Kutilmoqda"
+  }
+]
